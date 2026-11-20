@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1142 312" font-family="Inter, 'Segoe UI', 'DejaVu Sans', Arial, sans-serif">
+<defs><marker id="ar-ink" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0f172a"/></marker><marker id="ar-gray" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#475569"/></marker><marker id="ar-c1" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#ea580c"/></marker><marker id="ar-c2" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#2563eb"/></marker><marker id="ar-c3" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#16a34a"/></marker><marker id="ar-c4" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0d9488"/></marker><marker id="ar-c5" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#e11d48"/></marker><marker id="ar-c6" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#7c3aed"/></marker><marker id="ar-c7" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#d97706"/></marker><marker id="ar-c8" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#db2777"/></marker></defs>
+<defs><marker id="a-ink" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#0f172a"/></marker><marker id="a-muted" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#475569"/></marker><marker id="a-c1" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#ea580c"/></marker><marker id="a-c2" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#2563eb"/></marker><marker id="a-c3" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#16a34a"/></marker><marker id="a-c4" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#0d9488"/></marker><marker id="a-c5" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#e11d48"/></marker><marker id="a-c6" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#7c3aed"/></marker><marker id="a-c7" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#d97706"/></marker><marker id="a-c8" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#db2777"/></marker><marker id="a-gray" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#475569"/></marker></defs>
+<rect x="20.0" y="70.0" width="122.0" height="70.0" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="81.0" y="111.0" text-anchor="middle" font-size="18" font-weight="700" fill="#2563eb">reading</text>
+<text x="81.0" y="168.0" text-anchor="middle" font-size="18" font-weight="400" fill="#475569">Lab 4</text>
+<line x1="143.0" y1="105.0" x2="159.0" y2="105.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<rect x="160.0" y="70.0" width="122.0" height="70.0" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="221.0" y="101.0" text-anchor="middle" font-size="18" font-weight="700" fill="#16a34a">CoAP</text>
+<text x="221.0" y="121.0" text-anchor="middle" font-size="14" font-weight="400" fill="#0f172a">+ CBOR</text>
+<text x="221.0" y="168.0" text-anchor="middle" font-size="18" font-weight="400" fill="#475569">Lab 3</text>
+<line x1="283.0" y1="105.0" x2="299.0" y2="105.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<rect x="300.0" y="70.0" width="122.0" height="70.0" rx="10" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="361.0" y="111.0" text-anchor="middle" font-size="18" font-weight="700" fill="#0d9488">mesh</text>
+<text x="361.0" y="168.0" text-anchor="middle" font-size="18" font-weight="400" fill="#475569">Lab 2</text>
+<line x1="423.0" y1="105.0" x2="439.0" y2="105.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<rect x="440.0" y="70.0" width="122.0" height="70.0" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="501.0" y="111.0" text-anchor="middle" font-size="18" font-weight="700" fill="#d97706">OTBR</text>
+<text x="501.0" y="168.0" text-anchor="middle" font-size="18" font-weight="400" fill="#475569">Lab 5</text>
+<line x1="563.0" y1="105.0" x2="579.0" y2="105.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<rect x="580.0" y="70.0" width="122.0" height="70.0" rx="10" fill="#fce7f3" stroke="#db2777" stroke-width="2"/>
+<text x="641.0" y="111.0" text-anchor="middle" font-size="18" font-weight="700" fill="#db2777">bridge</text>
+<text x="641.0" y="168.0" text-anchor="middle" font-size="18" font-weight="400" fill="#475569">Lab 7</text>
+<line x1="703.0" y1="105.0" x2="719.0" y2="105.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<rect x="720.0" y="70.0" width="122.0" height="70.0" rx="10" fill="#ffedd5" stroke="#ea580c" stroke-width="2"/>
+<text x="781.0" y="111.0" text-anchor="middle" font-size="18" font-weight="700" fill="#ea580c">dashboard</text>
+<text x="781.0" y="168.0" text-anchor="middle" font-size="18" font-weight="400" fill="#475569">Lab 7</text>
+<line x1="843.0" y1="105.0" x2="859.0" y2="105.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<rect x="860.0" y="70.0" width="122.0" height="70.0" rx="10" fill="#fff" stroke="#0f172a" stroke-width="4"/>
+<text x="921.0" y="111.0" text-anchor="middle" font-size="18" font-weight="800" fill="#0f172a">decision</text>
+<line x1="983.0" y1="105.0" x2="999.0" y2="105.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<rect x="1000.0" y="70.0" width="122.0" height="70.0" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="1061.0" y="111.0" text-anchor="middle" font-size="18" font-weight="700" fill="#2563eb">valve</text>
+<text x="1061.0" y="168.0" text-anchor="middle" font-size="18" font-weight="400" fill="#475569">Lab 3</text>
+<text x="921.0" y="40.0" text-anchor="middle" font-size="20" font-weight="800" fill="#0f172a">value is captured here</text>
+<line x1="20.0" y1="210.0" x2="852.0" y2="210.0" stroke="#475569" stroke-width="3"/>
+<line x1="20.0" y1="200.0" x2="20.0" y2="220.0" stroke="#475569" stroke-width="3"/>
+<line x1="852.0" y1="200.0" x2="852.0" y2="220.0" stroke="#475569" stroke-width="3"/>
+<text x="440.0" y="242.0" text-anchor="middle" font-size="20" font-weight="700" fill="#475569">cost: every link Gustavo pays for</text>
+<line x1="860.0" y1="210.0" x2="1122.0" y2="210.0" stroke="#0f172a" stroke-width="3"/>
+<line x1="860.0" y1="200.0" x2="860.0" y2="220.0" stroke="#0f172a" stroke-width="3"/>
+<line x1="1122.0" y1="200.0" x2="1122.0" y2="220.0" stroke="#0f172a" stroke-width="3"/>
+<text x="991.0" y="242.0" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">the product</text>
+<text x="20.0" y="296.0" text-anchor="start" font-size="20" font-weight="400" fill="#475569">a reading nobody acts on is storage; a valve opened at the right time is water saved</text>
+</svg>

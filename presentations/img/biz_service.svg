@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 396" font-family="Inter, 'Segoe UI', 'DejaVu Sans', Arial, sans-serif">
+<defs><marker id="ar-ink" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0f172a"/></marker><marker id="ar-gray" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#475569"/></marker><marker id="ar-c1" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#ea580c"/></marker><marker id="ar-c2" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#2563eb"/></marker><marker id="ar-c3" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#16a34a"/></marker><marker id="ar-c4" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0d9488"/></marker><marker id="ar-c5" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#e11d48"/></marker><marker id="ar-c6" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#7c3aed"/></marker><marker id="ar-c7" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#d97706"/></marker><marker id="ar-c8" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#db2777"/></marker></defs>
+<defs><marker id="a-ink" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#0f172a"/></marker><marker id="a-muted" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#475569"/></marker><marker id="a-c1" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#ea580c"/></marker><marker id="a-c2" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#2563eb"/></marker><marker id="a-c3" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#16a34a"/></marker><marker id="a-c4" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#0d9488"/></marker><marker id="a-c5" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#e11d48"/></marker><marker id="a-c6" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#7c3aed"/></marker><marker id="a-c7" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#d97706"/></marker><marker id="a-c8" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#db2777"/></marker><marker id="a-gray" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#475569"/></marker></defs>
+<text x="20.0" y="28.0" text-anchor="start" font-size="18" font-weight="700" fill="#475569">the service promises</text>
+<text x="470.0" y="28.0" text-anchor="start" font-size="18" font-weight="700" fill="#475569">what you built for it</text>
+<text x="1060.0" y="28.0" text-anchor="end" font-size="18" font-weight="700" fill="#475569">where</text>
+<rect x="20.0" y="44.0" width="400.0" height="46.0" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="36.0" y="74.0" text-anchor="start" font-size="19" font-weight="700" fill="#d97706">uptime the contract can state</text>
+<line x1="424.0" y1="67.0" x2="462.0" y2="67.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<text x="470.0" y="74.0" text-anchor="start" font-size="19" font-weight="400" fill="#0f172a">self-healing mesh, OTBR autostart, watchdog</text>
+<text x="1060.0" y="74.0" text-anchor="end" font-size="17" font-weight="400" fill="#475569">Labs 2, 8</text>
+<rect x="20.0" y="102.0" width="400.0" height="46.0" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="36.0" y="132.0" text-anchor="start" font-size="19" font-weight="700" fill="#7c3aed">see every node from the office</text>
+<line x1="424.0" y1="125.0" x2="462.0" y2="125.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<text x="470.0" y="132.0" text-anchor="start" font-size="19" font-weight="400" fill="#0f172a">health telemetry, bridge, dashboard</text>
+<text x="1060.0" y="132.0" text-anchor="end" font-size="17" font-weight="400" fill="#475569">Lab 7</text>
+<rect x="20.0" y="160.0" width="400.0" height="46.0" rx="10" fill="#ffe4e6" stroke="#e11d48" stroke-width="2"/>
+<text x="36.0" y="190.0" text-anchor="start" font-size="19" font-weight="700" fill="#e11d48">nobody else opens the valves</text>
+<line x1="424.0" y1="183.0" x2="462.0" y2="183.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<text x="470.0" y="190.0" text-anchor="start" font-size="19" font-weight="400" fill="#0f172a">DTLS on every request</text>
+<text x="1060.0" y="190.0" text-anchor="end" font-size="17" font-weight="400" fill="#475569">Lab 6</text>
+<rect x="20.0" y="218.0" width="400.0" height="46.0" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="36.0" y="248.0" text-anchor="start" font-size="19" font-weight="700" fill="#2563eb">cut off means safe</text>
+<line x1="424.0" y1="241.0" x2="462.0" y2="241.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<text x="470.0" y="248.0" text-anchor="start" font-size="19" font-weight="400" fill="#0f172a">the valve fails closed</text>
+<text x="1060.0" y="248.0" text-anchor="end" font-size="17" font-weight="400" fill="#475569">Lab 8</text>
+<rect x="20.0" y="276.0" width="400.0" height="46.0" rx="10" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="36.0" y="306.0" text-anchor="start" font-size="19" font-weight="700" fill="#0d9488">no lock-in for the farmer</text>
+<line x1="424.0" y1="299.0" x2="462.0" y2="299.0" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a-ink)"/>
+<text x="470.0" y="306.0" text-anchor="start" font-size="19" font-weight="400" fill="#0f172a">Thread and CoAP: open standards</text>
+<text x="1060.0" y="306.0" text-anchor="end" font-size="17" font-weight="400" fill="#475569">all labs</text>
+<rect x="20.0" y="334.0" width="400.0" height="46.0" rx="10" fill="#fff" stroke="#475569" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="36.0" y="364.0" text-anchor="start" font-size="19" font-weight="700" fill="#475569">fix a bug without a visit</text>
+<line x1="424.0" y1="357.0" x2="462.0" y2="357.0" stroke="#475569" stroke-width="2.5" stroke-dasharray="6 5" marker-end="url(#a-gray)"/>
+<text x="470.0" y="364.0" text-anchor="start" font-size="19" font-weight="400" fill="#475569" font-style="italic">signed firmware update</text>
+<text x="1060.0" y="364.0" text-anchor="end" font-size="17" font-weight="700" fill="#0f172a">not built: a gap</text>
+</svg>

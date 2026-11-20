@@ -8,7 +8,7 @@
 
 This course ran backwards on purpose. At GreenField Technologies you were hired as engineers into a project that already existed: Gustavo had sold the pilot, Samuel had sketched the architecture, and your job was the *how* — the mesh, the CoAP contract, the DTLS handshake, the Golden Master. The *why* sat in [one week-1 exercise](scenario.md#8b-business-viewpoint-exercise-isoiec-30141-section-63) you answered with speculation and re-answered in [Lab 8](../labs/lab8.md) with evidence.
 
-That order is pedagogical, not professional. In industry the sequence is reversed: nobody funds a Thread mesh because Thread is elegant. Someone first argues that a problem is worth solving, that a customer will pay, and that the economics survive contact with reality (remember the truck-roll arithmetic from the [Lab 8 lecture](../lectures/lab8_lecture.md)). Only then does an architect get budget to decide *how* — and every technical trade-off you spent eight labs making (battery vs. latency, DTLS vs. handshake energy, fail-closed vs. fail-open) is ultimately settled by the business model, not by taste. This is why ISO/IEC 30141 lists Business as the *second* viewpoint, right after Foundational: the standard assumes the *why* exists before the system does.
+That order is pedagogical, not professional. In industry the sequence is reversed: nobody funds a Thread mesh because Thread is elegant. Someone first argues that a problem is worth solving, that a customer will pay, and that the economics survive contact with reality (remember the truck-roll arithmetic from the [session 8 talk](../presentations/08_business.md)). Only then does an architect get budget to decide *how* — and every technical trade-off you spent eight labs making (battery vs. latency, DTLS vs. handshake energy, fail-closed vs. fail-open) is ultimately settled by the business model, not by taste. This is why ISO/IEC 30141 lists Business as the *second* viewpoint, right after Foundational: the standard assumes the *why* exists before the system does.
 
 The final project asks you to work in the professional order for the first time: **lead with the why, and let the system you built serve as the evidence.**
 
@@ -42,7 +42,7 @@ The written core. Table 3 specifies exactly two **model kinds** for the business
 3. **Service blueprint** (model kind 2): one diagram of the service in operation — the customer-visible journey on top (onboarding, daily use, an incident, offboarding/exit) and, beneath the line of visibility, the backstage machinery that makes each step happen (your mesh, dashboard, OTA path, support process, *truck rolls*). This is where "as-a-service" stops being a slogan: every backstage box is either something you built or a cost you are signing up to carry.
 4. **Characteristics → consequences** (Concern 3): pick two essential characteristics from the foundational view (scalability, composability, interoperability, …) and trace each to a concrete business decision — pricing, market entry, exit clauses, support cost. With numbers where you have them. This is precisely what the standard says the business view *is*: "text explaining the business implications of the essential characteristics described in the foundational view" (Table 3, Legends).
 
-Close with a **one-page Construction-viewpoint summary**: the IoT System Pattern table ([Lab 8 §2](../labs/lab8.md#2-isoiec-30141-placement)) filled for the system you are pitching. This is the page the architect on the panel reads.
+Close with a **one-page Construction-viewpoint summary**: the IoT System Pattern table ([Lab 8](../labs/lab8.md#isoiec-30141-mapping)) filled for the system you are pitching. This is the page the architect on the panel reads.
 
 ### 4.2 The pitch (15 min + 5 min Q&A)
 
@@ -58,7 +58,7 @@ Each team also serves on the panel for two other teams, with one assigned questi
 
 **Business case (50)** — Value path concrete and evidence-cited (10) · Business model with its architectural demands made explicit, gaps named honestly (10) · Service blueprint: customer journey + backstage machinery, every backstage box built or costed (10) · Two foundational-view characteristics traced to real business consequences, quantified where possible (10)
 
-**Pitch & demo (20)** — Leads with the problem and the why; architecture appears as justification, not inventory (15) · Demo runs and substantiates a stated business claim (10) · Q&A: defended trade-offs in business terms (5)
+**Pitch & demo (20)** — Leads with the problem and the why; architecture appears as justification, not inventory (10) · Demo runs and substantiates a stated business claim (5) · Q&A: defended trade-offs in business terms (5)
 
 **ISO/IEC 30141 alignment (20)** — §6.3 concerns addressed as a viewpoint, not a slogan (10) · IoT System Pattern table complete and matching the demonstrated system (10)
 
@@ -71,10 +71,10 @@ Each team also serves on the panel for two other teams, with one assigned questi
 | Item | Value |
 |---|---|
 | Teams | Lab 7–8 teams of 4 (Track B teams may re-form around an existing project) |
-| Track declaration + one-paragraph pitch abstract due | ____ |
-| Business Case document due | ____ |
-| Pitch sessions | ____ |
-| Weight in course grade | ____ % |
+| Track declaration + one-paragraph pitch abstract due | Friday, November 27, 2026, in class |
+| Business Case document due | Friday, December 4, 2026, before the first pitch |
+| Pitch sessions | Friday, December 4, 2026 |
+| Weight in course grade | 15 % |
 
 ---
 

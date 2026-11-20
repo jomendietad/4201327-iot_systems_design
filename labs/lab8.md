@@ -1,5 +1,5 @@
 # Lab 8: The Golden Master — Survive the Chaos Script, Then Say Why It Exists
-> - **Talk:** [lab8_lecture.md](../lectures/lab8_lecture.md) · **SOP:** [SOP-08: The Golden Master and the chaos drills](sops/sop08_golden_master.md)
+> - **Talk:** [deck](../presentations/08_business.md) · **SOP:** [SOP-08: The Golden Master and the chaos drills](sops/sop08_golden_master.md)
 > - **Reading:** ISO/IEC 30141:2024 §6.3 (Business viewpoint, Table 3) and §6.7 (Construction viewpoint, Table 12) · your week-1 Business exercise
 
 **GreenField Technologies — SoilSense Project** · Phase: Production release · 2 sessions

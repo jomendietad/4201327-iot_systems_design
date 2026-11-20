@@ -65,7 +65,7 @@ One session per lab: a talk, then the lab (2–3 h). Per-lab readings are in
 | 5 | [deck](presentations/05_border_router.md) | [Border Router: the mesh meets the Internet](labs/lab5.md) | [SOP-05](labs/sops/sop05_border_router.md) | ADR-005; the four-network walk |
 | 6 | [deck](presentations/06_security.md) | [A lock on the bytes: DTLS](labs/lab6.md) | [SOP-06](labs/sops/sop06_security.md) | ADR-006; STRIDE; trustworthiness audit, second pass |
 | 7 | [deck](presentations/07_fleet.md) | [The fleet on one screen: telemetry, bridge, dashboard](labs/lab7.md) | [SOP-07](labs/sops/sop07_fleet.md) | ADR-007; OMD, RAID interchange; the Usage row |
-| 8 | [script](lectures/lab8_lecture.md) | [Integration](labs/lab8.md) | [SOP-08](labs/sops/sop08_golden_master.md) | All six domains; the IoT system pattern |
+| 8 | [deck](presentations/08_business.md) | [Integration](labs/lab8.md) | [SOP-08](labs/sops/sop08_golden_master.md) | All six domains; the IoT system pattern |
 | — | — | [Final project: the pitch](docs/final_project.md) | — | The Business viewpoint |
 
 Pairs for Labs 1–6; two pairs merge into teams of four for Labs 7–8.
@@ -76,7 +76,7 @@ Pairs for Labs 1–6; two pairs merge into teams of four for Labs 7–8.
 |---|---|
 | Lab implementations, each graded by its rubric: does it work, does it meet the targets | 50 % |
 | DDR: architectural reasoning, ISO/IEC 30141 mapping, ADRs | 30 % |
-| Final integration: the end-to-end system, all six domains | 15 % |
+| Final project: the Business Case and the pitch, with the end-to-end system as its live demo | 15 % |
 | Participation | 5 % |
 
 AI tools are allowed and declared in the DDR (tool and what it did). Every measured value

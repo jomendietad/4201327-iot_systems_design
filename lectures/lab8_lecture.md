@@ -6,7 +6,7 @@
 
 **Pairs with**: [lab8.md](../labs/lab8.md)
 
-**Follows**: [the session-7 deck](../presentations/07_fleet.md) — students can watch the fleet (telemetry, dashboard, CoAP→MQTT bridge) and were promised that in Lab 8 "watching becomes acting": the chaos script, and a signed OTA pushed back down the egress path.
+**Follows**: [the session-7 deck](../presentations/07_fleet.md) — students can watch the fleet (telemetry, dashboard, CoAP→MQTT bridge) and were told that Lab 8 turns watching into acting: the chaos script, with a signed OTA update as its stretch.
 
 ---
 
@@ -16,7 +16,7 @@ By the end of this talk, students should be able to:
 
 1. Name the **Business viewpoint** (ISO/IEC 30141 §6.3) as the last of the six viewpoints to become dominant — and explain why it comes *last* here even though the standard puts it *first*.
 2. Re-answer the three **Table 3 business concerns** from the [week-1 exercise](../docs/scenario.md#8b-business-viewpoint-exercise-isoiec-30141-section-63) — this time citing the system they actually built, with numbers.
-3. Read their own technical decisions as **business capabilities**: OTA is the warranty, telemetry is the SLA, the mesh is the pricing model, open protocols are the exit clause.
+3. Read their own technical decisions as **business capabilities**: telemetry is the SLA, the mesh is the pricing model, open protocols are the exit clause, and a signed update path would be the warranty.
 4. Treat the chaos script as a **business event**, not a technical exam: every manual reset in the field is a truck roll someone pays for.
 
 ---
@@ -78,11 +78,11 @@ Week 1 posed "what if GreenField sold irrigation-as-a-service instead of hardwar
 |---|---|---|
 | Uptime SLA | self-healing mesh, auto-recovery (the chaos script *is* the SLA test) | 2, 8 |
 | Remote fleet management | telemetry + dashboard + Green/Red status | 7 |
-| Fix bugs without site visits | signed OTA over the egress path | 6, 8 |
+| Fix bugs without site visits | not built: signed OTA is Lab 8's stretch, otherwise a documented gap | — |
 | Customer data rights | DTLS, data inventory, deletion path (DDR §7) | 6, ethics |
 | No vendor lock-in (the *customer's* concern) | Thread + CoAP open standards | all |
 
-The punchline: **OTA is the warranty, telemetry is the SLA, the mesh is the pricing model.** A company that can't push a signed update sells hardware and walks away; a company that can, sells a service and keeps the revenue. The features they built in Labs 6–7 weren't engineering polish — they were the business model.
+The punchline: **telemetry is the SLA, the mesh is the pricing model, and OTA would be the warranty.** A company that can't push a signed update sells hardware and walks away; a company that can, sells a service and keeps the revenue. The features they built in Labs 6–7 weren't engineering polish — they were the business model, and the missing update path is a gap the DDR must name and cost.
 
 ### Concern 3 — "How do system characteristics influence the business?" — with numbers
 
@@ -105,7 +105,7 @@ Then the **scalability** check: going from the 3-node pilot to 500 nodes, what c
 
 ### The chaos script is a business event
 
-Reframe the [lab8.md](../labs/lab8.md) exam: when Samuel cuts the OTBR's power, jams Wi-Fi, floods the mesh, and reboots nodes, he isn't grading firmware — he's simulating six months of field reality compressed into an afternoon. **Every time someone would have to press a reset button, GreenField pays for a truck roll.** "Recovers automatically" is the entire economics of the deployment. The pilot go/no-go is a contract decision, and their binary is the thing the contract rests on.
+Reframe the [lab8.md](../labs/lab8.md) exam: when Samuel cuts the OTBR's power, takes away a node's parent, floods the nodes, and reboots or hangs them, he isn't grading firmware — he's simulating six months of field reality compressed into an afternoon. **Every time someone would have to press a reset button, GreenField pays for a truck roll.** "Recovers automatically" is the entire economics of the deployment. The pilot go/no-go is a contract decision, and their binary is the thing the contract rests on.
 
 ### What to hand in
 
@@ -125,7 +125,7 @@ Reframe the [lab8.md](../labs/lab8.md) exam: when Samuel cuts the OTBR's power, 
 - [ ] The inversion named: the standard puts Business *first*; the course saved it for *last* so it could be answered with evidence, not speculation.
 - [ ] Week-1 §8b exercise recalled; "speculation → audit" framing landed.
 - [ ] Concern 1: the value chain drawn through *their* components; value captured at the decision point, not the sensor.
-- [ ] Concern 2: the as-a-service capability table walked; "OTA is the warranty, telemetry is the SLA, the mesh is the pricing model."
+- [ ] Concern 2: the as-a-service capability table walked; "telemetry is the SLA, the mesh is the pricing model, and OTA would be the warranty"; the update path named as a gap.
 - [ ] Concern 3: the truck-roll arithmetic done live with real numbers; scalability and interoperability checked against their architecture; the ethics-question/business-question convergence named.
 - [ ] The Gustavo-cuts-DTLS question posed and discussed in business terms.
 - [ ] Chaos script reframed as a contract decision; "every reset is a truck roll."

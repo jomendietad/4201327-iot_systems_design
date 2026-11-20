@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 416" font-family="Inter, 'Segoe UI', 'DejaVu Sans', Arial, sans-serif">
+<defs><marker id="ar-ink" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0f172a"/></marker><marker id="ar-gray" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#475569"/></marker><marker id="ar-c1" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#ea580c"/></marker><marker id="ar-c2" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#2563eb"/></marker><marker id="ar-c3" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#16a34a"/></marker><marker id="ar-c4" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0d9488"/></marker><marker id="ar-c5" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#e11d48"/></marker><marker id="ar-c6" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#7c3aed"/></marker><marker id="ar-c7" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#d97706"/></marker><marker id="ar-c8" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#db2777"/></marker></defs>
+<defs><marker id="a-ink" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#0f172a"/></marker><marker id="a-muted" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#475569"/></marker><marker id="a-c1" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#ea580c"/></marker><marker id="a-c2" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#2563eb"/></marker><marker id="a-c3" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#16a34a"/></marker><marker id="a-c4" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#0d9488"/></marker><marker id="a-c5" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#e11d48"/></marker><marker id="a-c6" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#7c3aed"/></marker><marker id="a-c7" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#d97706"/></marker><marker id="a-c8" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#db2777"/></marker><marker id="a-gray" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="12" refX="13" refY="6" orient="auto"><path d="M0 0 L14 6 L0 12 Z" fill="#475569"/></marker></defs>
+<text x="20.0" y="30.0" text-anchor="start" font-size="17" font-weight="700" fill="#475569">viewpoint, in the standard's order</text>
+<text x="618.0" y="30.0" text-anchor="middle" font-size="17" font-weight="700" fill="#475569">session</text>
+<text x="250.0" y="56.0" text-anchor="middle" font-size="19" font-weight="700" fill="#475569">0</text>
+<text x="342.0" y="56.0" text-anchor="middle" font-size="19" font-weight="700" fill="#475569">1</text>
+<text x="434.0" y="56.0" text-anchor="middle" font-size="19" font-weight="700" fill="#475569">2</text>
+<text x="526.0" y="56.0" text-anchor="middle" font-size="19" font-weight="700" fill="#475569">3</text>
+<text x="618.0" y="56.0" text-anchor="middle" font-size="19" font-weight="700" fill="#475569">4</text>
+<text x="710.0" y="56.0" text-anchor="middle" font-size="19" font-weight="700" fill="#475569">5</text>
+<text x="802.0" y="56.0" text-anchor="middle" font-size="19" font-weight="700" fill="#475569">6</text>
+<text x="894.0" y="56.0" text-anchor="middle" font-size="19" font-weight="700" fill="#475569">7</text>
+<text x="986.0" y="56.0" text-anchor="middle" font-size="19" font-weight="700" fill="#0f172a">8</text>
+<rect x="952.0" y="36.0" width="68.0" height="344.0" rx="10" fill="#f1f5f9" stroke="none" stroke-width="0"/>
+<text x="986.0" y="56.0" text-anchor="middle" font-size="19" font-weight="800" fill="#0f172a">8</text>
+<text x="20.0" y="93.0" text-anchor="start" font-size="21" font-weight="600" fill="#475569">Foundational</text>
+<line x1="230.0" y1="86.0" x2="1006.0" y2="86.0" stroke="#cbd5e1" stroke-width="1"/>
+<circle cx="250.0" cy="86.0" r="13" fill="#0f172a" stroke="none" stroke-width="0"/>
+<text x="20.0" y="143.0" text-anchor="start" font-size="21" font-weight="800" fill="#0f172a">Business</text>
+<line x1="230.0" y1="136.0" x2="1006.0" y2="136.0" stroke="#cbd5e1" stroke-width="1"/>
+<circle cx="250.0" cy="136.0" r="12" fill="#fff" stroke="#475569" stroke-width="3"/>
+<circle cx="986.0" cy="136.0" r="13" fill="#0f172a" stroke="none" stroke-width="0"/>
+<text x="20.0" y="193.0" text-anchor="start" font-size="21" font-weight="600" fill="#475569">Usage</text>
+<line x1="230.0" y1="186.0" x2="1006.0" y2="186.0" stroke="#cbd5e1" stroke-width="1"/>
+<circle cx="894.0" cy="186.0" r="13" fill="#0f172a" stroke="none" stroke-width="0"/>
+<text x="20.0" y="243.0" text-anchor="start" font-size="21" font-weight="600" fill="#475569">Functional</text>
+<line x1="230.0" y1="236.0" x2="1006.0" y2="236.0" stroke="#cbd5e1" stroke-width="1"/>
+<circle cx="342.0" cy="236.0" r="13" fill="#0f172a" stroke="none" stroke-width="0"/>
+<circle cx="434.0" cy="236.0" r="13" fill="#0f172a" stroke="none" stroke-width="0"/>
+<circle cx="526.0" cy="236.0" r="13" fill="#0f172a" stroke="none" stroke-width="0"/>
+<circle cx="710.0" cy="236.0" r="13" fill="#0f172a" stroke="none" stroke-width="0"/>
+<text x="20.0" y="293.0" text-anchor="start" font-size="21" font-weight="600" fill="#e11d48">Trustworthiness</text>
+<line x1="230.0" y1="286.0" x2="1006.0" y2="286.0" stroke="#cbd5e1" stroke-width="1"/>
+<circle cx="618.0" cy="286.0" r="13" fill="#e11d48" stroke="none" stroke-width="0"/>
+<circle cx="802.0" cy="286.0" r="13" fill="#e11d48" stroke="none" stroke-width="0"/>
+<text x="20.0" y="343.0" text-anchor="start" font-size="21" font-weight="600" fill="#475569">Construction</text>
+<line x1="230.0" y1="336.0" x2="1006.0" y2="336.0" stroke="#cbd5e1" stroke-width="1"/>
+<circle cx="986.0" cy="336.0" r="13" fill="#0f172a" stroke="none" stroke-width="0"/>
+<circle cx="30.0" cy="392.0" r="10" fill="#0f172a" stroke="none" stroke-width="0"/>
+<text x="48.0" y="398.0" text-anchor="start" font-size="17" font-weight="400" fill="#0f172a">the session's lens</text>
+<circle cx="250.0" cy="392.0" r="9" fill="#fff" stroke="#475569" stroke-width="3"/>
+<text x="268.0" y="398.0" text-anchor="start" font-size="17" font-weight="400" fill="#0f172a">week 1: answered before any firmware existed</text>
+</svg>
